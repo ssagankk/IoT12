@@ -12,9 +12,9 @@ using System;
 using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("IoT12")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+421545e427c3b1369c3c6eac34a5f35e485401e5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6bee5060185c57e5d29eb6f4683e8f3eaec731f4")]
 [assembly: System.Reflection.AssemblyProductAttribute("IoT12")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IoT12")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
